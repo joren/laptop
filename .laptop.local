@@ -1,0 +1,15 @@
+#!/bin/sh
+
+brew tap caskroom/cask
+brew install brew-cask
+
+brew cask install dropbox
+brew cask install google-chrome
+brew cask install spotify
+brew cask install hipchat
+brew cask install firefox
+brew cask install skype
+brew cask install launchrocket
+brew install macvim
+brew install mariadb
+brew install mosh
